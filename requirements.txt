@@ -1,0 +1,27 @@
+# FastAPI and Web Server
+fastapi
+uvicorn
+python-fasthtml
+
+# Database (Choose one: MongoDB or Firebase)
+motor  # MongoDB (if using MongoDB)
+firebase-admin  # Firebase (if using Firebase)
+
+# 3D Rendering and Graphics
+mediapipe  # Hand tracking and gesture recognition
+opencv-python  # Camera access for real-time tracking
+numpy  # Numerical computations for 3D processing
+pillow  # Image processing (for handling 2D images)
+pythreejs  # Web-based 3D rendering (alternative to Three.js)
+trimesh  # 3D mesh processing and manipulation
+
+# Voice Interaction and LLM Integration
+openai  # LLM API (for AI conversation)
+speechrecognition  # Convert speech to text
+pyaudio  # Handle microphone input
+gtts  # Text-to-speech output
+
+# Additional Utilities
+jinja2  # Template rendering (FastHTML is based on Jinja)
+requests  # API calls
+python-dotenv  # Manage environment variables securely
